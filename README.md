@@ -62,3 +62,23 @@ Key Non-functional Requirements:
 3. Scalability: The system should be able to scale horizontally to handle increased traffic.
 4. Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 5. Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+## Use Case Diagrams
+
+### What are Use Case Diagrams?
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+### Creating Use Case Diagrams:
+
+1. Identify actors (e.g., guest, registered user, admin).
+2. Define use cases (e.g., search properties, book property, manage listings).
+3. Draw interactions between actors and use cases.
+
+### Benefits of Use Case Diagrams:
+
+1. Provide a clear visual representation of system functionalities.
+2. Help in identifying and organizing system requirements.
+3. Facilitate communication among stakeholders and development team.
+
+![Use Case Diagram](https://github.com/nati1234567890/requirement-analysis/blob/main/alx-booking-uc.png?raw=true)
